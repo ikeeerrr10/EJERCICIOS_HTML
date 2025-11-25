@@ -11,6 +11,8 @@ Para enviar las páginas al explorador, utilizamos la extensión **Live Server**
 Para *intrepretar* las páginas, en principio, nos sirve cualquier exlorador (por ejemplo, Chrome o Firefox).
 
 [Página oficial de VS Code](https://code.visualstudio.com/)
-`print("Actividad1")`
+
 ## Alumno propietario del repositorio
 Iker Suárez López
+
+Esto es un ejemplo de fragmento de codigo: `print("Actividad1")`
